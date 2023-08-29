@@ -8,6 +8,8 @@ const icons = [
   <ImAngry style={{ color: 'red' }} />,
 ];
 
+
+
 export const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   return (
     <div>
